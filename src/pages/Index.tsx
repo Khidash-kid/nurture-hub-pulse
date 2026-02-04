@@ -41,6 +41,7 @@ const Index = () => {
       <main className="flex-1 lg:ml-0 overflow-x-hidden">
         <div className="p-6 lg:p-8 pt-20 lg:pt-8 max-w-7xl mx-auto">
           {renderSection()}
+          
         </div>
       </main>
     </div>
